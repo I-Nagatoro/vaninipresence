@@ -1,0 +1,14 @@
+C:\Users\sokol\source\repos\presence_new\presence_new\bin\Debug\net8.0\Demo.exe
+C:\Users\sokol\source\repos\presence_new\presence_new\bin\Debug\net8.0\Demo.deps.json
+C:\Users\sokol\source\repos\presence_new\presence_new\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\sokol\source\repos\presence_new\presence_new\bin\Debug\net8.0\Demo.dll
+C:\Users\sokol\source\repos\presence_new\presence_new\bin\Debug\net8.0\Demo.pdb
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.dll
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.pdb
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\sokol\source\repos\presence_new\presence_new\obj\Debug\net8.0\ref\Demo.dll
